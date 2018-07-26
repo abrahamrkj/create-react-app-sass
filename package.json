@@ -22,6 +22,6 @@
   "dependencies": {
     "cross-spawn": "^4.0.2",
     "find-remove": "^1.0.0",
-    "node-sass": "^3.10.1"
+    "node-sass": "^4.5.0"
   }
 }
